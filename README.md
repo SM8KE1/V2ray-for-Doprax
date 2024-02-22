@@ -60,12 +60,3 @@ ENV VLESS_WSPATH /vless
 <p>The picture below is a schematic diagram of VLess configuration. Please modify the label content. Other settings are consistent with those shown in the picture. </p>
 
 <img src="https://www.hicairo.com/zb_users/upload/2022/12/2022122 91672276274474231.webp">
-
-# Feedback and communication:
-
-<p>If you encounter any problems during use, please use Telegram to contact me. (https://t.me/HiaiFeng) </p>
-
-<p>Hello everyone, Doprax pays great attention to user experience. Mr. Hemen and his team have created a Discord service for the Doprax community. If you encounter problems related to the Doprax platform or have some suggestions for the platform during use, please use the following link to contact the official.
-
-Hello everyone! Doprax pays great attention to user experience. Mr. Hemen and his team have created a Discord service for the Doprax community. If you encounter any problems or have any suggestions related to the Doprax platform during use, please contact the official using the link below.
-</p>
