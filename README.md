@@ -26,9 +26,7 @@ href="https://www.doprax.com/signup/">Doprax.com</a> Log in and import the proje
 
 <p>Please use <a href="https://www.v2fly.org/awesome/tools.html"> third-party tools</a> to generate a new UUID. After logging in to Doprax.com, click Main in the left menu, Edit source code on the right side of the window, select the Dockerfile file, edit the UUID and camouflage address information, save it and restart the service. </p>
 
-<img
-
-src="https://hicairo.com/zb_users/upload/2022/12/20221229167 2276227538571.webp">
+<img src="https://hicairo.com/zb_users/upload/2022/12/20221229167 2276227538571.webp">
 
 <pre class="notranslate"><code># Replace de04add9-5c68-8bab-950c-08cd5320df18 with the newly generated UUID
 
@@ -56,15 +54,11 @@ ENV VLESS_WSPATH /vless
 
 </p>
 
-<img
-
-src="https://www.hicairo.com/zb_users/upload/2022/12/2022122 91672276258394161.webp">
+<img src="https://www.hicairo.com/zb_users/upload/2022/12/2022122 91672276258394161.webp">
 
 <p>The picture below is a schematic diagram of VLess configuration. Please modify the label content. Other settings are consistent with those shown in the picture. </p>
 
-<img
-
-src="https://www.hicairo.com/zb_users/upload/2022/12/2022122 91672276274474231.webp">
+<img src="https://www.hicairo.com/zb_users/upload/2022/12/2022122 91672276274474231.webp">
 
 # Feedback and communication:
 
