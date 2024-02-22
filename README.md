@@ -16,7 +16,7 @@ This project is used to deploy V2ray on Doprax.com free service. The solution ad
 
 <p>2. Registration<a>
 
-href="https://www.doprax.com/signup/">Doprax.com</a> Log in and import the project. </p>
+<a href="https://www.doprax.com/signup/">Doprax.com</a> Log in and import the project. </p>
 
 <p>For detailed usage plan, please refer to: https://www.hicairo.com/post/55.html</p>
 
