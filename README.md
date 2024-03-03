@@ -26,7 +26,7 @@ This project is used to deploy V2ray on Doprax.com free service. The solution ad
 
 <p>Please use <a href="https://www.v2fly.org/awesome/tools.html"> third-party tools</a> to generate a new UUID. After logging in to Doprax.com, click Main in the left menu, Edit source code on the right side of the window, select the Dockerfile file, edit the UUID and camouflage address information, save it and restart the service. </p>
 
-<img src="[https://hicairo.com/zb_users/upload/2022/12/20221229167 2276227538571.webp](https://camo.githubusercontent.com/19968a471c92cc19cf6cc2c8909c8776d9ee44e0062c6fa5ec26387f434835e4/68747470733a2f2f6869636169726f2e636f6d2f7a625f75736572732f75706c6f61642f323032322f31322f3230323231323239313637323237363232373533383537312e77656270)">
+<img src="https://hicairo.com/zb_users/upload/2022/12/202212291672276227538571.webp">
 
 
 <pre class="notranslate"><code># Replace de04add9-5c68-8bab-950c-08cd5320df18 with the newly generated UUID
